@@ -1,0 +1,17 @@
+.header_3{
+    font-size:23px;
+    width: 100%;
+    margin: 0px;
+    color: black;
+}
+
+.span_one{
+    font-size: 20px;
+    color: rgb(251, 251, 251);
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 35px 35px 70px rgb(11, 4, 79);
+}
